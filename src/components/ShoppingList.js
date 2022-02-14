@@ -14,7 +14,7 @@ function ShoppingList() {
   }, []);
 
   function handleAddItem(newItem) {
-    console.log("In ShoppingList", newItem)
+    setItems([...items, newItem]);
   }
 
 

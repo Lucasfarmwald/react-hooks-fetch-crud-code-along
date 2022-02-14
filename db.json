@@ -41,6 +41,18 @@
       "category": "Produce",
       "isInCart": false,
       "id": 7
+    },
+    {
+      "name": "pizza",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "berries",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
